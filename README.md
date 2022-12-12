@@ -1,6 +1,5 @@
 # Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
-
+-Flower code from: https://modang1.github.io/buat-nadira/
 
 # Description
 Flower code tiktok trend 
